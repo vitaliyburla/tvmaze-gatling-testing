@@ -1,0 +1,10 @@
+{
+  "simulation": "tvmaze.ScheduleSimulation",
+  "simulationId": "schedulesimulation",
+  "start": 1639409821491,
+  "description": "",
+  "scenarios": ["ScheduleSimulation"],
+  "assertions": [
+
+  ]
+}

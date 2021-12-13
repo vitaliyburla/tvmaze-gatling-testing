@@ -1,0 +1,10 @@
+{
+  "simulation": "tvmaze.SingleSearchSimulation",
+  "simulationId": "singlesearchsimulation",
+  "start": 1639410060606,
+  "description": "",
+  "scenarios": ["SingleSearchSimulation"],
+  "assertions": [
+
+  ]
+}
